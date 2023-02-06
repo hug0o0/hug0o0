@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @hug0o0
-- 👀 I’m interested in Data Sciences
-- 🌱 I’m currently learning Applied Mathmatics and computer science
-- 💞️ I’m looking to collaborate on a traineeship
+- 👋 Hi, I’m Hugo Larmignat
+- 👀 I’m interested in Data Sciences, Data Analysis and information technology in general. 
+- 🌱 I work as a Data Analyst but my career path and my curiosity have led me to Data Sciences, Data Engineering and web or software development
 - 📫 How to reach me : hlarmugnat@gmail.com
 
 <!---
